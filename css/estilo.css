@@ -2,3 +2,6 @@ h1 {
 	font-family: 'comic sans ms';
 	font-size: 35;
 }
+img {
+	border-radius: 50px;
+}
